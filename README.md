@@ -10,4 +10,7 @@ The workflow of **bias correction** is similar to the studies by [Lima-Ribeiro e
 The bias-corrected monthly averaged daily maximum temperature, daily minimum temperature and precipitation, are used for calculating **bioclim variables** using the “biovars” function from [dismo](https://cran.r-project.org/web/packages/dismo/index.html) package in R.
 
 ## Folder content
-- **Liu_etal_2023**: scripts for generating bias-corrected climate data and bioclim variables for Early Miocene, Late Miocene and Pliocene, and interpolating the data to the fossil sites in China for redescripition mining.
+- **Liu_etal_2023**: scripts for generating bias-corrected climate data and bioclim variables for Early Miocene, Late Miocene and Pliocene, and interpolating the data to the fossil sites in China for redescripition mining. The downstream application can be found [**here**](https://github.com/zliobaite/redescription-asia-neogene) 
+
+## Other relevant github repos
+
